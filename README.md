@@ -50,13 +50,13 @@ Tugas  :  Pemrograman Orientasi Objek
 
 <img width="549" alt="gp4" src="https://user-images.githubusercontent.com/92928548/199908068-b9286b29-56a8-4762-83ee-7ed05454cfb8.png">
 
-- Berikut tampilan output setelah kita mengeksekusi projectyang kita susun
+- Berikut tampilan output setelah kita mengeksekusi project yang kita susun
 
 <img width="308" alt="gp5" src="https://user-images.githubusercontent.com/92928548/199908203-2528417a-f026-4f2d-983c-badc22ce34dd.png">
 
 Program Studi Teknik Informatika
 
-UNiversitas Pelita Bangsa
+Universitas Pelita Bangsa
 
     2022
 
